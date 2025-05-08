@@ -1,6 +1,6 @@
-# [U Matter Meditation App](https://umatter.netlify.app/ "U Matter")
+# [U Matter Meditation App]
 
-### [**U matter**](https://umatter.netlify.app/ "U Matter") is a meditation and relaxation app that designed to take you some moment to relax and breathe. U Matter mission is to help you find your inner peace and improve your mental health.
+### [**U matter**] is a meditation and relaxation app that designed to take you some moment to relax and breathe. U Matter mission is to help you find your inner peace and improve your mental health.
 
 ## **How can we help you?**
 
@@ -89,10 +89,9 @@
 
 ---
 
-## Visit U Matter [here](https://umatter.netlify.app/ "U Matter")
 
 ---
 
-#### design and develop by [**Jericho Bantiquete**](https://twitter.com/monciego)
+#### design and develop by [**Muhammad Qasim Malik **]
 
 #### powered by HTML5, CSS3 and Vanilla JavaScript
